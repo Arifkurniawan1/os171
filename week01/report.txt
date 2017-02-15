@@ -1,0 +1,2 @@
+On week01, I learn how to clone my github to badak server, make folders and files using touch command, using text editor nano and vi (i  nano better),
+and how to push and pull files from and to github. I also learn some basic scripting in linux.
