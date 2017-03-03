@@ -1,0 +1,10 @@
+w03-170303-22-PS-About: learn about boot
+w03-170303-22-PS-About: learn about boot
+w03-170304-23-PS-About: create .profile bash script
+w03-170304-23-PS-About: learn about sudo
+w03-170304-00-PS-About: learn about sudo script
+w03-170304-00-PS-About: generate hash using SHA-1
+w03-170304-01-PS-About: finishing and push to github
+
+
+
