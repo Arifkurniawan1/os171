@@ -1,0 +1,13 @@
+w03-170421-23-PS-About: learn about semaphore
+w03-170421-23-PS-About: learn about semaphore
+w03-170422-00-PS-About: do the tasks
+w03-170422-00-PS-About: do the tasks
+w03-170422-01-PS-About: do the tasks
+w03-170422-01-PS-About: do the tasks
+w03-170422-02-PS-About: do the tasks
+w03-170422-02-PS-About: finish tasks and push to github
+
+
+
+
+
